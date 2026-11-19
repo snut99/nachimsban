@@ -1,6 +1,6 @@
 const CACHE_NAME = 'nachimsban-v1';
 const ASSETS = [
-  './나침반.html',
+  './index.html',
   './manifest.json',
   './icon-192.png',
   './icon-512.png'

@@ -2,7 +2,7 @@
   "name": "나의 나침반",
   "short_name": "나침반",
   "description": "일하는 방식의 원칙 - 흔들릴 때마다 꺼내보는 나만의 작은 책",
-  "start_url": "./나침반.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#1a2f4e",
